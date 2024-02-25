@@ -21,4 +21,7 @@
 - [Vite](https://vitejs.dev)
 - [Tailwind CSS](https://tailwindcss.com)
 
+- ### 🖼️ Layout
+<img src="web.png" />
+
 <br />
